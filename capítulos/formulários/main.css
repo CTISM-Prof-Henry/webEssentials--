@@ -5,7 +5,7 @@
 }
 
 /* se aplica apenas a títulos h1 com a classe centro */
-h1.center {
+body.center {
     text-align: center;
 }
 
